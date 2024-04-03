@@ -440,7 +440,12 @@ a:focus {
   margin-top: -12%;
 }
 
-.about_section .img_container .img-box img {
+/* .about_section .img_container .img-box img {
+  width: 700px;
+  height: 480px;
+} */
+
+#about_us_index {
   width: 700px;
   height: 480px;
 }
